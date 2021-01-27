@@ -19,9 +19,6 @@ import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
 
-import com.mysql.cj.xdevapi.JsonArray;
-import com.mysql.cj.xdevapi.JsonValue;
-
 import BD.CarritoBD;
 import BD.LLamadasBD;
 import BD.LinkPhoto;

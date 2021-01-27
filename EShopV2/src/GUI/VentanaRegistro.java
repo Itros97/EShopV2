@@ -18,8 +18,6 @@ import javax.swing.JSpinner;
 import javax.swing.JTextField;
 import javax.swing.SpinnerDateModel;
 
-import com.mysql.cj.xdevapi.PreparableStatement;
-
 import BD.LLamadasBD;
 import BD.UsuarioBD;
 import Tienda.Tienda;
